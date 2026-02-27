@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**Husam-Arasi/Husam-Arasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻Husam Arasi
 
-Here are some ideas to get you started:
+Information Systems student passionate about software development and continuous self-improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a self-driven programmer currently mastering C++ and Object-Oriented Programming, building strong foundations in problem-solving, data structures, and clean code practices.
+
+Beyond coding, I am deeply interested in Artificial Intelligence, system design, and using technology to create real-world impact. I believe in disciplined learning, consistency, and long-term growth.
+
+Currently:
+
+📚 Strengthening my C++ fundamentals
+
+🧠 Exploring AI and advanced programming concepts
+
+🌍 Improving my English for global opportunities
+
+🚀 Working toward becoming a senior software engineer
+
+“Consistency beats talent when talent doesn’t work hard.”
