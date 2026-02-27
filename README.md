@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-💻Husam Arasi
+💻My name is Husam Arasi
 
-Information Systems student passionate about software development and continuous self-improvement.
+Information Systems Management student passionate about software development and continuous self-improvement.
 
 I am a self-driven programmer currently mastering C++ and Object-Oriented Programming, building strong foundations in problem-solving, data structures, and clean code practices.
 
