@@ -12,9 +12,9 @@ Currently:
 
 📚 Strengthening my C++ fundamentals
 
-🧠 Exploring AI and advanced programming concepts
+🧩 Exploring AI and advanced programming concepts
 
-🌍 Improving my English for global opportunities
+🧠 Improving problem-solving and data structure skills
 
 🚀 Working toward becoming a senior software engineer
 
