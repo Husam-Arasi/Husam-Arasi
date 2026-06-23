@@ -3,7 +3,9 @@
 </p>
 
 
-## Hi there 👋
+  <p align="center">
+  <h2>Hi there, my name is Husam Arasi 👋</h2>
+  </p>
 
 💻My name is Husam Arasi
 
