@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.svg" width="854"/>
+</p>
+
+
 ## Hi there 👋
 
 💻My name is Husam Arasi
