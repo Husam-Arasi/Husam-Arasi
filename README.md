@@ -3,11 +3,9 @@
 </p>
 
 
-  <p align="center">
-  <h2>Hi there, my name is Husam Arasi 👋</h2>
-  </p>
+<h1 align="center">Hi there, I'm Husam Arasi 👋</h1>
 
-💻My name is Husam Arasi
+
 
 Management Information Systems  student passionate about software development and continuous self-improvement.
 
