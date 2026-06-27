@@ -1,19 +1,8 @@
-<svg
-  width="854"
-  height="240"
-  viewBox="0 0 854 240"
-  xmlns="http://www.w3.org/2000/svg"
->
-  <defs>
-    <!-- Space gradient -->
-    <linearGradient id="space" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#020617"/>
-      <stop offset="50%" stop-color="#050b1a"/>
-      <stop offset="100%" stop-color="#000000"/>
-    </linearGradient>
+<svg width="854" height="240" viewBox="0 0 854 240" xmlns="http://www.w3.org/2000/svg">
 
+  <defs>
     <!-- Glass -->
-    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1">
+    <linearGradient id="glass" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.10"/>
       <stop offset="100%" stop-color="#ffffff" stop-opacity="0.04"/>
     </linearGradient>
@@ -74,7 +63,7 @@
     </circle>
   </g>
 
-  <!-- FLOATING 3D CARD -->
+  <!-- FLOATING CARD -->
   <g>
     <animateTransform
       attributeName="transform"
@@ -84,7 +73,6 @@
       repeatCount="indefinite"
     />
 
-    <!-- Tilt -->
     <g transform="skewX(-12) translate(40,0)">
 
       <!-- Shadow -->
@@ -111,13 +99,13 @@
         stroke-opacity="0.12"
       />
 
-      <!-- Subtle glow -->
+      <!-- Glow -->
       <ellipse cx="410" cy="110" rx="200" ry="60" fill="#60a5fa" opacity="0.08"/>
 
-      <!-- Name ONLY -->
+      <!-- NAME -->
       <text
         x="410"
-        y="120"
+        y="115"
         text-anchor="middle"
         font-size="44"
         font-weight="700"
@@ -128,6 +116,20 @@
         Husam Arasi
       </text>
 
+      <!-- SUBTITLE (added under name) -->
+      <text
+        x="410"
+        y="150"
+        text-anchor="middle"
+        font-size="14"
+        font-family="Inter, Segoe UI, Arial, sans-serif"
+        fill="#93c5fd"
+        opacity="0.85"
+      >
+        Junior Software Developer • IS Student
+      </text>
+
     </g>
   </g>
+
 </svg>
