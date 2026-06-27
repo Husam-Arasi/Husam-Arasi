@@ -10,22 +10,26 @@
 </p>
 
 
+## 👨‍💼 About Me
 
-##About me 
-Management Information Systems  student passionate about software development and continuous self-improvement.
+🎓 Fourth-year Management Information Systems (MIS) student in Aden University 
 
-I am a self-driven programmer currently mastering C++ and Object-Oriented Programming, building strong foundations in problem-solving, data structures, and clean code practices.
+💡 Self-taught software developer passionate about building practical applications and continuously improving my skills.
 
-Beyond coding, I am deeply interested in Artificial Intelligence, system design, and using technology to create real-world impact. I believe in disciplined learning, consistency, and long-term growth.
+🌱 Currently mastering:
+- ⚡ C++
+- 🏗️ Object-Oriented Programming (OOP)
+- 🧠 Data Structures & Algorithms
+- 🔍 Problem Solving
 
-Currently:
+🚀 Expanding my expertise in:
+- 🎨 C#
+- 🖥️ .NET & Windows Forms
+- 🗄️ SQL Server
+- 🏛️ Software Development Principles
 
-📚 Strengthening my C++ fundamentals
+📚 Following the ProgrammingAdvices roadmap by **Dr. Mohammed Abu-Hadhoud**
 
-🧩 Exploring AI and advanced programming concepts
+🎯 Goal: Become a professional Software Engineer by building strong fundamentals and real-world projects.
 
-🧠 Improving problem-solving and data structure skills
-
-🚀 Working toward becoming a senior software engineer
-
-“Consistency beats talent when talent doesn’t work hard.”
+🤖 Exploring AI tools to improve software development, productivity, and learning.
