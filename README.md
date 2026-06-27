@@ -6,7 +6,7 @@
 <h1 align="center">Hi there, I'm Husam Arasi 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/Info/skills.svg" width="900"/>
+  <img src="./Info/skills.svg" width="900" />
 </p>
 
 
