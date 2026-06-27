@@ -40,7 +40,7 @@
               fill="url(#grad)"
               filter="url(#glow)">
 
-            Building Software That Matters
+            Problem Solving & Clean Code
 
             <animateTransform attributeName="transform"
                 type="translate"
