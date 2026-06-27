@@ -9,7 +9,7 @@
   <img src="./Info/skills.svg" width="900" />
 </p>
 
-
+---
 ## 👨‍💼 About Me
 
 🎓 Fourth-year Management Information Systems (MIS) student in Aden University 
@@ -35,13 +35,13 @@
 🤖 Exploring AI tools to improve software development, productivity, and learning.
 
 
-
+---
 
 ## 🧠 Skills & Tools
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" />
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="50"/>
+</p>
 
