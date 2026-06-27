@@ -5,6 +5,10 @@
 
 <h1 align="center">Hi there, I'm Husam Arasi 👋</h1>
 
+<p align="center">
+  <img src="Info/skills.svg" width="900"/>
+</p>
+
 
 
 ##About me 
