@@ -40,7 +40,7 @@
               fill="url(#grad)"
               filter="url(#glow)">
 
-            Problem Solving & Clean Code
+            Problem Solving &amp; Clean Code
 
             <animateTransform attributeName="transform"
                 type="translate"
