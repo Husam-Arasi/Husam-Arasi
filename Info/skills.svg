@@ -1,0 +1,118 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+        <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#38BDF8"/>
+            <stop offset="50%" stop-color="#8B5CF6"/>
+            <stop offset="100%" stop-color="#22D3EE"/>
+        </linearGradient>
+
+        <filter id="glow">
+            <feGaussianBlur stdDeviation="3" result="blur"/>
+            <feMerge>
+                <feMergeNode in="blur"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+
+        <clipPath id="clip">
+            <rect x="110" y="18" width="690" height="44" rx="8"/>
+        </clipPath>
+    </defs>
+
+    <!-- Background -->
+    <rect width="900" height="80" rx="15" fill="#0D1117"/>
+
+    <!-- Prompt -->
+    <text x="35" y="50"
+          font-family="Consolas, monospace"
+          font-size="28"
+          fill="#58A6FF">
+        >
+    </text>
+
+    <g clip-path="url(#clip)">
+
+        <!-- Line 1 -->
+        <text x="120" y="50"
+              font-family="Fira Code, Consolas, monospace"
+              font-size="26"
+              fill="url(#grad)"
+              filter="url(#glow)">
+
+            Building Software That Matters
+
+            <animateTransform attributeName="transform"
+                type="translate"
+                values="0,0;0,0;0,-80;0,-80"
+                keyTimes="0;0.20;0.25;1"
+                dur="20s"
+                repeatCount="indefinite"/>
+        </text>
+
+        <!-- Line 2 -->
+        <text x="120" y="130"
+              font-family="Fira Code, Consolas, monospace"
+              font-size="26"
+              fill="url(#grad)"
+              filter="url(#glow)">
+
+            C++ • Object-Oriented Programming
+
+            <animateTransform attributeName="transform"
+                type="translate"
+                values="0,0;0,-80;0,-80;0,-160;0,-160"
+                keyTimes="0;0.20;0.45;0.50;1"
+                dur="20s"
+                repeatCount="indefinite"/>
+        </text>
+
+        <!-- Line 3 -->
+        <text x="120" y="210"
+              font-family="Fira Code, Consolas, monospace"
+              font-size="26"
+              fill="url(#grad)"
+              filter="url(#glow)">
+
+            Data Structures • Algorithms
+
+            <animateTransform attributeName="transform"
+                type="translate"
+                values="0,0;0,-160;0,-160;0,-240;0,-240"
+                keyTimes="0;0.45;0.70;0.75;1"
+                dur="20s"
+                repeatCount="indefinite"/>
+        </text>
+
+        <!-- Line 4 -->
+        <text x="120" y="290"
+              font-family="Fira Code, Consolas, monospace"
+              font-size="26"
+              fill="url(#grad)"
+              filter="url(#glow)">
+
+            C# • .NET • Windows Forms • SQL Server
+
+            <animateTransform attributeName="transform"
+                type="translate"
+                values="0,0;0,-240;0,-240"
+                keyTimes="0;0.75;1"
+                dur="20s"
+                repeatCount="indefinite"/>
+        </text>
+
+    </g>
+
+    <!-- Blinking cursor -->
+    <rect x="770" y="25"
+          width="4"
+          height="30"
+          fill="#58A6FF">
+
+        <animate attributeName="opacity"
+                 values="1;0;1"
+                 dur="1s"
+                 repeatCount="indefinite"/>
+    </rect>
+
+</svg>
