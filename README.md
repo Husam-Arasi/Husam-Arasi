@@ -78,6 +78,9 @@
 
 </p>
 
+---
+
+
 <p align="center">
   <img src="Info/GoodBayMessage.svg" alt="GoodBayMessage" />
 </p>
